@@ -1,0 +1,5 @@
+.vscode/launch.json
+
+core/__pycache__/*
+lib/__pycache__/*
+auxiliary/__pycache__/

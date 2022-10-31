@@ -11,6 +11,8 @@ def ip_parse(ip_range:str) -> list:
         Return:
             
     '''
+    if '-' not in ip_range:
+        return [ip_range]
     ip_list = []
     head = ip_range.split("-")[0].split('.')[-1]
     tail = ip_range.split('-')[-1]
@@ -33,7 +35,7 @@ def Ping(ip_or_domain):
     p = subprocess.Popen('ping '+ip_or_domain +' -c 1 -W 4', shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     stdout,stderr = p.communicate()
     
-    with open('port_collect.txt','a') as f:
+    with open('ip_collect.txt','a') as f:
         if stderr != b'':
             if b'Name or service not known\n' in stderr:
                 #logger.log('ERROR',f'{stderr}')

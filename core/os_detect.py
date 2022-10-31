@@ -7,7 +7,7 @@ from lib.method import test_os_using_icmp,test_os_using_tcp,smb_scan_os
 def os_scan():
     pool = ThreadPool()
     ip_list = []
-    with open('port_collect.txt','r') as f:
+    with open('ip_collect.txt','r') as f:
         iplist = f.readlines()
         ip_list = [(ip.strip().split(" ")[0],ip.strip().split(" ")[1]) for ip in iplist]
         # for ip in iplist:

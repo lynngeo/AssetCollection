@@ -1,0 +1,1353 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.1
+Host is up (0.00034s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http    OpenResty web app server 1.15.8.2
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 11.68 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.21
+Host is up (0.00078s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.80 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.37
+Host is up (0.0019s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.49
+Host is up (0.0086s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.68 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.61
+Host is up (0.075s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.82 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.22
+Host is up (0.081s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.75 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.23
+Host is up (0.060s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.78 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.33
+Host is up (0.12s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.75 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.14
+Host is up (0.00090s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.85 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.26
+Host is up (0.00076s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.80 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.37 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.6
+Host is up (0.00080s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.85 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.17
+Host is up (0.0036s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.7
+Host is up (0.00076s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.87 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.10
+Host is up (0.00084s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.87 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.42 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Nmap scan report for 192.168.1.8
+Host is up (0.00072s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:21 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.11
+Host is up (0.0016s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.36 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.38 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.37 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.12
+Host is up (0.11s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.75 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.63
+Host is up (0.055s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.65
+Host is up (0.0017s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.69
+Host is up (0.0033s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.68 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.34 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.38 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.4
+Host is up (0.00052s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  ipp     Web-Server httpd 3.0 (NRG copier or Ricoh Aficio printer http config)
+Service Info: Device: printer
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.56 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.38 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.77
+Host is up (0.0021s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.19
+Host is up (0.28s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1.10 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Nmap scan report for 192.168.1.28
+Host is up (0.11s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.73 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.42 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:22 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.39 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.78
+Host is up (0.12s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.80 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.38 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.39 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.37 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.34 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.64
+Host is up (0.0019s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.86 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.85
+Host is up (0.091s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.77 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.66
+Host is up (0.20s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.82 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.67
+Host is up (0.0036s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.43 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.44
+Host is up (0.0017s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.61 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.43 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.52
+Host is up (0.11s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.82 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.48
+Host is up (0.53s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.53 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Nmap scan report for 192.168.1.101
+Host is up (0.066s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.72 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.45 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:23 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.38 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.39 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Nmap scan report for 192.168.1.80
+Host is up (0.0019s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.67 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.36 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Nmap scan report for 192.168.1.121
+Host is up (0.00076s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.79 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Nmap scan report for 192.168.1.122
+Host is up (0.0039s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.42 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.35 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Nmap scan report for 192.168.1.125
+Host is up (0.0027s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.58 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Nmap scan report for 192.168.1.126
+Host is up (0.0023s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.61 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Nmap scan report for 192.168.1.127
+Host is up (0.0023s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Nmap scan report for 192.168.1.128
+Host is up (0.0016s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.38 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:24 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.68 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.93
+Host is up (0.0022s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.86 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.97
+Host is up (0.0032s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.83 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.37 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.109
+Host is up (0.011s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.82 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.36 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.106
+Host is up (0.0038s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.70 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.37 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.43 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.36 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.92
+Host is up (0.00080s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.80%I=7%D=10/31%Time=635F9489%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,80,"HTTP/1\.0\x20403\x20Forbidden\r\nContent-Type:\x20text/html
+SF:;charset=UTF-8\r\nContent-Length:\x200\r\nConnection:\x20close\r\nCache
+SF:-control:\x20no-cache\r\n\r\n")%r(HTTPOptions,89,"HTTP/1\.1\x20405\x20M
+SF:ethod\x20Not\x20Allowed\r\nContent-Type:\x20text/html;charset=UTF-8\r\n
+SF:Content-Length:\x200\r\nConnection:\x20close\r\nCache-control:\x20no-ca
+SF:che\r\n\r\n")%r(RTSPRequest,89,"HTTP/1\.1\x20405\x20Method\x20Not\x20Al
+SF:lowed\r\nContent-Type:\x20text/html;charset=UTF-8\r\nContent-Length:\x2
+SF:00\r\nConnection:\x20close\r\nCache-control:\x20no-cache\r\n\r\n")%r(Fo
+SF:urOhFourRequest,80,"HTTP/1\.0\x20403\x20Forbidden\r\nContent-Type:\x20t
+SF:ext/html;charset=UTF-8\r\nContent-Length:\x200\r\nConnection:\x20close\
+SF:r\nCache-control:\x20no-cache\r\n\r\n")%r(GenericLines,82,"HTTP/1\.1\x2
+SF:0400\x20Bad\x20Request\r\nContent-Type:\x20text/html;charset=UTF-8\r\nC
+SF:ontent-Length:\x200\r\nConnection:\x20close\r\nCache-control:\x20no-cac
+SF:he\r\n\r\n")%r(Help,82,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-T
+SF:ype:\x20text/html;charset=UTF-8\r\nContent-Length:\x200\r\nConnection:\
+SF:x20close\r\nCache-control:\x20no-cache\r\n\r\n")%r(TerminalServerCookie
+SF:,82,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20text/html;c
+SF:harset=UTF-8\r\nContent-Length:\x200\r\nConnection:\x20close\r\nCache-c
+SF:ontrol:\x20no-cache\r\n\r\n")%r(SIPOptions,89,"HTTP/1\.1\x20405\x20Meth
+SF:od\x20Not\x20Allowed\r\nContent-Type:\x20text/html;charset=UTF-8\r\nCon
+SF:tent-Length:\x200\r\nConnection:\x20close\r\nCache-control:\x20no-cache
+SF:\r\n\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.07 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.76
+Host is up (0.41s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1.07 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.88
+Host is up (0.0013s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.38 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.138
+Host is up (0.0023s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.139
+Host is up (0.33s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1.02 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.98
+Host is up (0.0022s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.83 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.108
+Host is up (0.092s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.71 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.37 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:25 CST
+Nmap scan report for 192.168.1.142
+Host is up (0.092s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.74 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:26 CST
+Nmap scan report for 192.168.1.143
+Host is up (0.00038s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.80%I=7%D=10/31%Time=635F94AE%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,326,"HTTP/1\.0\x20200\x20OK\r\nVary:\x20Accept-Encoding\r\nX-Fr
+SF:ame-Options:\x20SAMEORIGIN\r\nContent-Type:\x20text/html\r\nX-Content-T
+SF:ype-Options:\x20nosniff\r\nDate:\x20Mon,\x2031\x20Oct\x202022\x2017:26:
+SF:04\x20GMT\r\nETag:\x201664536011\r\nContent-Length:\x20481\r\nX-XSS-Pro
+SF:tection:\x201;\x20mode=block\r\nLast-Modified:\x20Tue,\x2022\x20Feb\x20
+SF:2022\x2005:44:08\x20GMT\r\nConnection:\x20close\r\nAccept-Ranges:\x20by
+SF:tes\r\n\r\n\xef\xbb\xbf<!doctype\x20html>\r\n<html>\r\n<head>\r\n\t<tit
+SF:le></title>\r\n\t<meta\x20http-equiv=\"Content-Type\"\x20content=\"text
+SF:/html;\x20charset=utf-8\"\x20/>\r\n\t<meta\x20http-equiv=\"X-UA-Compati
+SF:ble\"\x20content=\"IE=edge\"\x20>\r\n\t<meta\x20http-equiv=\"Pragma\"\x
+SF:20content=\"no-cache\"\x20/>\r\n\t<meta\x20http-equiv=\"Cache-Control\"
+SF:\x20content=\"no-cache,\x20must-revalidate\"\x20/>\r\n\t<meta\x20http-e
+SF:quiv=\"Expires\"\x20content=\"0\"\x20/>\r\n</head>\r\n<body>\r\n</body>
+SF:\r\n<script>\r\n\twindow\.location\.href\x20=\x20\"\./doc/page/login\.a
+SF:sp\?_\"\x20\+\x20\(new\x20Date\(\)\)\.getTime\(\);\r\n</script>\r\n</ht
+SF:ml>")%r(HTTPOptions,21F,"HTTP/1\.0\x20405\x20Method\x20Not\x20Allowed\r
+SF:\nVary:\x20Accept-Encoding\r\nX-Frame-Options:\x20SAMEORIGIN\r\nContent
+SF:-Type:\x20text/html\r\nX-Content-Type-Options:\x20nosniff\r\nDate:\x20M
+SF:on,\x2031\x20Oct\x202022\x2017:26:05\x20GMT\r\nCache-Control:\x20no-cac
+SF:he\r\nContent-Length:\x20241\r\nX-XSS-Protection:\x201;\x20mode=block\r
+SF:\nConnection:\x20close\r\nAccept-Ranges:\x20bytes\r\n\r\n<!DOCTYPE\x20h
+SF:tml>\r\n<head>\r\n\x20\x20\x20\x20<title>Method\x20Not\x20Allowed</titl
+SF:e>\r\n\x20\x20\x20\x20<link\x20rel=\"shortcut\x20icon\"\x20href=\"data:
+SF:image/x-icon;,\"\x20type=\"image/x-icon\">\r\n</head>\r\n<body>\r\n<h2>
+SF:Access\x20Error:\x20405\x20--\x20Method\x20Not\x20Allowed</h2>\r\n<pre>
+SF:</pre>\r\n</body>\r\n</html>\r\n")%r(FourOhFourRequest,204,"HTTP/1\.0\x
+SF:20404\x20Not\x20Found\r\nVary:\x20Accept-Encoding\r\nX-Frame-Options:\x
+SF:20SAMEORIGIN\r\nContent-Type:\x20text/html\r\nX-Content-Type-Options:\x
+SF:20nosniff\r\nDate:\x20Mon,\x2031\x20Oct\x202022\x2017:26:10\x20GMT\r\nC
+SF:ache-Control:\x20no-cache\r\nContent-Length:\x20223\r\nX-XSS-Protection
+SF::\x201;\x20mode=block\r\nConnection:\x20close\r\nAccept-Ranges:\x20byte
+SF:s\r\n\r\n<!DOCTYPE\x20html>\r\n<head>\r\n\x20\x20\x20\x20<title>Not\x20
+SF:Found</title>\r\n\x20\x20\x20\x20<link\x20rel=\"shortcut\x20icon\"\x20h
+SF:ref=\"data:image/x-icon;,\"\x20type=\"image/x-icon\">\r\n</head>\r\n<bo
+SF:dy>\r\n<h2>Access\x20Error:\x20404\x20--\x20Not\x20Found</h2>\r\n<pre><
+SF:/pre>\r\n</body>\r\n</html>\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 144.60 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:28 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:28 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.70 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:28 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.68 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:28 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.36 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:28 CST
+Nmap scan report for 192.168.1.150
+Host is up (0.00095s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:28 CST
+Nmap scan report for 192.168.1.151
+Host is up (0.0019s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:28 CST
+Nmap scan report for 192.168.1.111
+Host is up (0.11s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.82 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:28 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.75 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.119
+Host is up (0.049s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.69 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.132
+Host is up (0.00073s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.80%I=7%D=10/31%Time=635F956F%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,80,"HTTP/1\.0\x20403\x20Forbidden\r\nContent-Type:\x20text/html
+SF:;charset=UTF-8\r\nContent-Length:\x200\r\nConnection:\x20close\r\nCache
+SF:-control:\x20no-cache\r\n\r\n")%r(HTTPOptions,89,"HTTP/1\.1\x20405\x20M
+SF:ethod\x20Not\x20Allowed\r\nContent-Type:\x20text/html;charset=UTF-8\r\n
+SF:Content-Length:\x200\r\nConnection:\x20close\r\nCache-control:\x20no-ca
+SF:che\r\n\r\n")%r(RTSPRequest,89,"HTTP/1\.1\x20405\x20Method\x20Not\x20Al
+SF:lowed\r\nContent-Type:\x20text/html;charset=UTF-8\r\nContent-Length:\x2
+SF:00\r\nConnection:\x20close\r\nCache-control:\x20no-cache\r\n\r\n")%r(Fo
+SF:urOhFourRequest,80,"HTTP/1\.0\x20403\x20Forbidden\r\nContent-Type:\x20t
+SF:ext/html;charset=UTF-8\r\nContent-Length:\x200\r\nConnection:\x20close\
+SF:r\nCache-control:\x20no-cache\r\n\r\n")%r(GenericLines,82,"HTTP/1\.1\x2
+SF:0400\x20Bad\x20Request\r\nContent-Type:\x20text/html;charset=UTF-8\r\nC
+SF:ontent-Length:\x200\r\nConnection:\x20close\r\nCache-control:\x20no-cac
+SF:he\r\n\r\n")%r(Help,82,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-T
+SF:ype:\x20text/html;charset=UTF-8\r\nContent-Length:\x200\r\nConnection:\
+SF:x20close\r\nCache-control:\x20no-cache\r\n\r\n")%r(TerminalServerCookie
+SF:,82,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nContent-Type:\x20text/html;c
+SF:harset=UTF-8\r\nContent-Length:\x200\r\nConnection:\x20close\r\nCache-c
+SF:ontrol:\x20no-cache\r\n\r\n")%r(SIPOptions,89,"HTTP/1\.1\x20405\x20Meth
+SF:od\x20Not\x20Allowed\r\nContent-Type:\x20text/html;charset=UTF-8\r\nCon
+SF:tent-Length:\x200\r\nConnection:\x20close\r\nCache-control:\x20no-cache
+SF:\r\n\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.30 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.95
+Host is up (0.12s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.76 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.39 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.115
+Host is up (0.0025s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.85 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.140
+Host is up (0.0018s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.162
+Host is up (0.18s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.84 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.99
+Host is up (0.019s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.165
+Host is up (0.15s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.79 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Nmap scan report for 192.168.1.159
+Host is up (0.10s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.72 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:29 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.69 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.42 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.37 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Nmap scan report for 192.168.1.136
+Host is up (0.0077s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http    Apache httpd 2.2.0 ((Fedora))
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.77 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.61 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.38 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.42 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:30 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.67 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:31 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:31 CST
+Nmap scan report for 192.168.1.148
+Host is up (0.25s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.95 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:31 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.39 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:31 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.68 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:31 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:31 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:32 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.61 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:32 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:32 CST
+Nmap scan report for 192.168.1.171
+Host is up (0.14s latency).
+
+PORT   STATE    SERVICE VERSION
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 2.19 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:32 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.68 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:32 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.71 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:32 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:32 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:33 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.67 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:33 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.69 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:33 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.67 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:33 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:33 CST
+Nmap scan report for 192.168.1.199
+Host is up (0.0087s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:33 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:34 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.36 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:34 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.36 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:34 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:34 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.70 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:34 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:34 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.39 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:34 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:35 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:35 CST
+Nmap scan report for 192.168.1.222
+Host is up (0.0029s latency).
+
+PORT   STATE  SERVICE VERSION
+80/tcp closed http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:35 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:35 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:35 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:35 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.67 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:36 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.39 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:36 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:36 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:36 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.67 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:36 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:36 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:37 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:37 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:37 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:37 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.40 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:37 CST
+Nmap scan report for 192.168.1.253
+Host is up (0.00047s latency).
+
+PORT   STATE SERVICE     VERSION
+80/tcp open  nagios-nsca Nagios NSCA
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.53 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:38 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:38 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:38 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:38 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:38 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:39 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:39 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.41 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:39 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.61 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:39 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.65 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:39 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.61 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:39 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.39 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:39 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.35 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:40 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:40 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:40 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:40 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.66 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:40 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.62 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:41 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:41 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.64 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:41 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.61 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:41 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.63 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:41 CST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 11.61 seconds
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-10-31 17:42 CST
+Nmap scan report for 192.168.1.252
+Host is up (0.0059s latency).
+
+PORT   STATE SERVICE VERSION
+80/tcp open  http
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.80%I=7%D=10/31%Time=635F9872%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,111C,"HTTP/1\.1\x20200\x20OK\r\nConnection:\x20close\r\nContent
+SF:-Type:\x20text/html\r\n\r\n<script>\nvar\x20logonInfo\x20=\x20new\x20Ar
+SF:ray\(\n5,\n0,0\);\nvar\x20g_Lan\x20=\x200;\nvar\x20g_year=2021;\nvar\x2
+SF:0g_product\x20=\x202;\n</script>\n<meta\x20http-equiv=Content-Type\x20c
+SF:ontent=\"text/html;\x20charset=utf-8\">\x20<html>\x20<head>\x20<meta\x2
+SF:0http-equiv=pragma\x20content=no-cache>\x20<meta\x20http-equiv=expires\
+SF:x20content=\"wed,\x2026\x20Feb\x201997\x2008:21:57\x20GMT\">\x20<script
+SF:>function\x20goUrl\(e\){window\.open\(e,\"\",\"\"\)}function\x20resize\
+SF:(e\){if\(document\.all\){var\x20t=document\.body\.offsetWidth,o=documen
+SF:t\.body\.offsetHeight;document\.getElementById\(e\)\.style\.left=\.5\*\
+SF:(t-400\),document\.getElementById\(e\)\.style\.top=\.3\*\(o-300\)}else{
+SF:var\x20t=window\.innerWidth,o=window\.innerHeight;document\.getElementB
+SF:yId\(e\)\.style\.left=\.5\*\(t-400\),document\.getElementById\(e\)\.sty
+SF:le\.top=\.3\*\(o-300\)}}function\x20doClear\(\){document\.getElementByI
+SF:d\(\"username\"\)\.value=\"\",document\.getElementById\(\"password\"\)\
+SF:.value=\"\",window\.focus&&self\.focus\(\),document\.getElemen")%r(Four
+SF:OhFourRequest,111C,"HTTP/1\.1\x20200\x20OK\r\nConnection:\x20close\r\nC
+SF:ontent-Type:\x20text/html\r\n\r\n<script>\nvar\x20logonInfo\x20=\x20new
+SF:\x20Array\(\n5,\n0,0\);\nvar\x20g_Lan\x20=\x200;\nvar\x20g_year=2021;\n
+SF:var\x20g_product\x20=\x202;\n</script>\n<meta\x20http-equiv=Content-Typ
+SF:e\x20content=\"text/html;\x20charset=utf-8\">\x20<html>\x20<head>\x20<m
+SF:eta\x20http-equiv=pragma\x20content=no-cache>\x20<meta\x20http-equiv=ex
+SF:pires\x20content=\"wed,\x2026\x20Feb\x201997\x2008:21:57\x20GMT\">\x20<
+SF:script>function\x20goUrl\(e\){window\.open\(e,\"\",\"\"\)}function\x20r
+SF:esize\(e\){if\(document\.all\){var\x20t=document\.body\.offsetWidth,o=d
+SF:ocument\.body\.offsetHeight;document\.getElementById\(e\)\.style\.left=
+SF:\.5\*\(t-400\),document\.getElementById\(e\)\.style\.top=\.3\*\(o-300\)
+SF:}else{var\x20t=window\.innerWidth,o=window\.innerHeight;document\.getEl
+SF:ementById\(e\)\.style\.left=\.5\*\(t-400\),document\.getElementById\(e\
+SF:)\.style\.top=\.3\*\(o-300\)}}function\x20doClear\(\){document\.getElem
+SF:entById\(\"username\"\)\.value=\"\",document\.getElementById\(\"passwor
+SF:d\"\)\.value=\"\",window\.focus&&self\.focus\(\),document\.getElemen");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 156.06 seconds
+
