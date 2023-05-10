@@ -35,3 +35,5 @@ OS_DB = {
 		1200: {"Centos", "Ubuntu", "Windows 7", "Debain"}
 	}
 }
+
+nmap_search_path = ('nmap', '/usr/bin/nmap', '/usr/local/bin/nmap', '/sw/bin/nmap', '/opt/local/bin/nmap')

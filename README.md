@@ -1,5 +1,8 @@
 由于使用nmap扫描开放ip和系统版本时速度非常慢
 所以研发此工具用于扫描开放ip段及系统版本，高并发零误报
+使用前安装依赖
+pip install requriments.txt -i https://mirrors.aliyun.com/pypi/simple
+apt install nmap
 
 ```
 python3 main.py -h
