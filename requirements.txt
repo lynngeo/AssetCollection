@@ -2,4 +2,4 @@ impacket==0.10.0
 python-nmap==0.6.1
 loguru==0.5.3
 scapy==2.4.4
-
+python-nmap==0.6.1

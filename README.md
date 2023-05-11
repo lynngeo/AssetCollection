@@ -100,3 +100,6 @@ Nmap done: 1 IP address (1 host up) scanned in 0.63 seconds
 
 # 使用已有的ip文件（ip_collect.txt）扫描范围内的端口服务
 python3 main.py --ip_range 192.168.1.1-254 -p 80 --skip_ip_find
+
+# 扫描特定ip的所有端口
+python3 main.py --ip 192.168.5.13
